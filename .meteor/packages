@@ -31,3 +31,7 @@ kadira:flow-router
 kadira:blaze-layout
 react-meteor-data
 ultimatejs:tracker-react
+meteorhacks:npm
+
+
+npm-container
